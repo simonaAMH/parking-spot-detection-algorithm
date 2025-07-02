@@ -156,19 +156,4 @@ For enhanced performance, consider implementing:
 - **Camera Calibration**: Correct for perspective distortions
 - **Multi-scale Processing**: Handle different image resolutions
 
-## 📸 Example Usage
-
-```bash
-# Run the detection script
-python parking_detection.py
-
-# Files needed in same directory:
-# - empty_parking_lot.jpg (reference image)
-# - not-empty-lot.png (current state image)
-
-# Output files generated:
-# - parking_spots_with_occupancy.json (detection results)
-# - detected_spots_with_occupancy.jpg (visual results)
-```
-
 **Note**: This algorithm works best with parking lots that have clear, visible white line markings and consistent lighting conditions. For optimal results, ensure your reference (empty) image and current images are taken under similar lighting conditions and from the same perspective.
