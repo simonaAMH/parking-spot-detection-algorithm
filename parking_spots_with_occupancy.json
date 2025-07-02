@@ -1,0 +1,248 @@
+{
+    "timestamp": "8872422916800",
+    "total_spots": 20,
+    "occupied_spots": 5,
+    "empty_spots": 15,
+    "spots": [
+        {
+            "id": 1,
+            "rect": [
+                22,
+                0,
+                61,
+                206
+            ],
+            "occupied": true,
+            "change_percentage": 7.566886395215988,
+            "confidence": 1.0
+        },
+        {
+            "id": 2,
+            "rect": [
+                83,
+                0,
+                59,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02484456344973296,
+            "confidence": 1.0
+        },
+        {
+            "id": 3,
+            "rect": [
+                142,
+                0,
+                60,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02363728854106739,
+            "confidence": 1.0
+        },
+        {
+            "id": 4,
+            "rect": [
+                202,
+                0,
+                59,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02545761235523969,
+            "confidence": 1.0
+        },
+        {
+            "id": 5,
+            "rect": [
+                261,
+                0,
+                60,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02750809653662145,
+            "confidence": 1.0
+        },
+        {
+            "id": 6,
+            "rect": [
+                321,
+                0,
+                60,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02573133388068527,
+            "confidence": 1.0
+        },
+        {
+            "id": 7,
+            "rect": [
+                381,
+                0,
+                59,
+                206
+            ],
+            "occupied": true,
+            "change_percentage": 7.852397859096527,
+            "confidence": 1.0
+        },
+        {
+            "id": 8,
+            "rect": [
+                440,
+                0,
+                60,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.025191958411596715,
+            "confidence": 1.0
+        },
+        {
+            "id": 9,
+            "rect": [
+                500,
+                0,
+                61,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.02371790906181559,
+            "confidence": 1.0
+        },
+        {
+            "id": 10,
+            "rect": [
+                561,
+                0,
+                51,
+                206
+            ],
+            "occupied": false,
+            "change_percentage": 0.023889246222097427,
+            "confidence": 1.0
+        },
+        {
+            "id": 11,
+            "rect": [
+                22,
+                206,
+                61,
+                181
+            ],
+            "occupied": true,
+            "change_percentage": 8.737024664878845,
+            "confidence": 1.0
+        },
+        {
+            "id": 12,
+            "rect": [
+                83,
+                206,
+                59,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.025595410261303186,
+            "confidence": 1.0
+        },
+        {
+            "id": 13,
+            "rect": [
+                142,
+                206,
+                60,
+                181
+            ],
+            "occupied": true,
+            "change_percentage": 8.936844021081924,
+            "confidence": 1.0
+        },
+        {
+            "id": 14,
+            "rect": [
+                202,
+                206,
+                59,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.02258418535348028,
+            "confidence": 1.0
+        },
+        {
+            "id": 15,
+            "rect": [
+                261,
+                206,
+                60,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.026432675076648593,
+            "confidence": 1.0
+        },
+        {
+            "id": 16,
+            "rect": [
+                321,
+                206,
+                60,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.023363307991530746,
+            "confidence": 1.0
+        },
+        {
+            "id": 17,
+            "rect": [
+                381,
+                206,
+                59,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.024714073515497148,
+            "confidence": 1.0
+        },
+        {
+            "id": 18,
+            "rect": [
+                440,
+                206,
+                60,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.024193844001274556,
+            "confidence": 1.0
+        },
+        {
+            "id": 19,
+            "rect": [
+                500,
+                206,
+                61,
+                181
+            ],
+            "occupied": true,
+            "change_percentage": 9.194961935281754,
+            "confidence": 1.0
+        },
+        {
+            "id": 20,
+            "rect": [
+                561,
+                206,
+                51,
+                181
+            ],
+            "occupied": false,
+            "change_percentage": 0.02604183682706207,
+            "confidence": 1.0
+        }
+    ]
+}
